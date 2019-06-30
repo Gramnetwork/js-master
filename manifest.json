@@ -1,0 +1,38 @@
+{
+  "name": "Oatoatan",
+  "short_name": "Oatoatan",
+  "start_url": "https://oatoatan.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#3fc7bb",
+  "description": "Oatoatan mengenalkan berbagai jenis obat, sifat-sifatnya, dan cara pemakaiannya, baik untuk penyakit dalam maupun untuk penyakit luar. Walaupun demikian, rekomendasi (resep) dari ahli kesehatan (dokter) tetap diperlukan agar kita tidak salah mengkonsumsi obat.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-uS69bAqW0ys/XRhyz7epE9I/AAAAAAAAFHk/W2k6m7LTvecngkC3u3VAe3IoQLx9CFcXgCLcBGAs/s48/icon%2Boatoatan.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-uS69bAqW0ys/XRhyz7epE9I/AAAAAAAAFHk/W2k6m7LTvecngkC3u3VAe3IoQLx9CFcXgCLcBGAs/s72/icon%2Boatoatan.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-uS69bAqW0ys/XRhyz7epE9I/AAAAAAAAFHk/W2k6m7LTvecngkC3u3VAe3IoQLx9CFcXgCLcBGAs/s96/icon%2Boatoatan.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-uS69bAqW0ys/XRhyz7epE9I/AAAAAAAAFHk/W2k6m7LTvecngkC3u3VAe3IoQLx9CFcXgCLcBGAs/s144/icon%2Boatoatan.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-uS69bAqW0ys/XRhyz7epE9I/AAAAAAAAFHk/W2k6m7LTvecngkC3u3VAe3IoQLx9CFcXgCLcBGAs/s168/icon%2Boatoatan.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-uS69bAqW0ys/XRhyz7epE9I/AAAAAAAAFHk/W2k6m7LTvecngkC3u3VAe3IoQLx9CFcXgCLcBGAs/s192/icon%2Boatoatan.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-uS69bAqW0ys/XRhyz7epE9I/AAAAAAAAFHk/W2k6m7LTvecngkC3u3VAe3IoQLx9CFcXgCLcBGAs/s512/icon%2Boatoatan.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
