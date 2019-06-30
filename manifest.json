@@ -3,7 +3,7 @@
   "short_name": "Oatoatan",
   "start_url": "https://oatoatan.blogspot.com/",
   "display": "standalone",
-  "background_color": "#fff",
+  "background_color": "#ffffff",
   "theme_color": "#3fc7bb",
   "description": "Oatoatan mengenalkan berbagai jenis obat, sifat-sifatnya, dan cara pemakaiannya, baik untuk penyakit dalam maupun untuk penyakit luar. Walaupun demikian, rekomendasi (resep) dari ahli kesehatan (dokter) tetap diperlukan agar kita tidak salah mengkonsumsi obat.",
   "icons": [{
